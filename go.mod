@@ -1,4 +1,4 @@
-module github.com/cenkalti/dominantcolor
+module github.com/vinicius73/dominantcolor
 
 go 1.20
 
